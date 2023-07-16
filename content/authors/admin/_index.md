@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Tianhao Cheng
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Tianhao
+last_name: Cheng
 
 # Status emoji
 status:
