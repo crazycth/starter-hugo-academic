@@ -79,5 +79,5 @@ highlight_name: true
 ---
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-My name is Tianhao Cheng. I'm currently working on my masters in Computer Science and Technology in Fudan University. I am  interested in AI and especially multi-modal technologies. I am also currently learning cutting-edge AI algorithms and infrastructure, including CV/NLP models and distributed training/inference system. It is awesome to make AI accessible to everyone!
+Greetings 😺, I am Tianhao Cheng. I am presently pursuing a master's degree in Computer Science and Technology at the esteemed Fudan University. My passion lies in Artificial Intelligence 🌟, specifically the multi-modal technologies. Additionally, I have been educating myself on the latest and greatest AI algorithms and infrastructure 📚, including CV/NLP models, distributed training and inference systems. I find it positively delightful 🀄️ to democratize AI for all!
 {style="text-align: justify;"}
