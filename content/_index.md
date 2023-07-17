@@ -71,6 +71,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: M.Sc in Compute Science
+          company: Fudan University
+          location: Shanghai,China
+          company_logo: fdu
+          date_start: '2023-09-01'
+          description: |-
+            🐤 I'm pursuing my master degree 🐤
         - title: R&D Intern in LLM Inference System
           company: ByteDance AILab-NLP
           location: Shanghai,China

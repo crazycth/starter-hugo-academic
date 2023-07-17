@@ -27,7 +27,6 @@ organizations:
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Multi-model Technology
   - Machine Learning System
 
 # Education to show in About widget
@@ -36,9 +35,8 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
-    - course: MSc in Computer Science
+    - course: M.Sc in Computer Science
       institution: Fudan University
-      year:
     - course: B.Eng in Computer Science
       institution: Shanghai University
       year: 2023
