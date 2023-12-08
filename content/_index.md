@@ -71,6 +71,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        # - title: Algorithm Engineer Intern
+        #   company: YiVal
+        #   location: Bay Area (Remote)
+        #   company_logo: fdu
+        #   description:  |-
+        #     Core Developer for YiVal(2k+ star🌟)
+        #     Research & Paper Inmplement
+        - title: ALgorithm Engineer
+          company: Yi.AI (startup)
+          location: Bay Area (Remote)
+          company_logo: yival_white
+          date_start: '2023-09-01'
+          data_end: '2023-11-01'
+          description: |2-
+            * Core Developer for [YiVal](https://github.com/YiVal/YiVal)(2k+ star🌟) , 1w+ lines code contribution
+            * Research & Paper Implement: Implement 6 automatic-prompt-eng papers in yival , more details in github page
+            * YiVal Architecture design: Add finetune parts , elegent system design
         - title: M.Sc in Compute Science
           company: Fudan University
           location: Shanghai,China
